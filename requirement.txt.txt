@@ -1,0 +1,10 @@
+django
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+pillow
+
+
+//admin
+//login:Nimap
+//password:123
